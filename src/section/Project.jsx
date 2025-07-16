@@ -2,7 +2,6 @@ import React, { useEffect } from  'react'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 import { FaArrowRightLong } from 'react-icons/fa6'
-import Hero from '../assets/Hero.jpg'
 import profile from '../assets/profile.jpg'
 import soundwave from '../assets/soundwave.png'
 
